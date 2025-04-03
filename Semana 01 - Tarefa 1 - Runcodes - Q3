@@ -1,3 +1,0 @@
-PRECO_LITRO = 7.80
-numero_litros = float(input())
-print(PRECO_LITRO * numero_litros)
